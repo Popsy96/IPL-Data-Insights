@@ -3,7 +3,7 @@
 ![IPL Banner](https://your-image-link.com) <!-- Replace with an IPL-themed image -->
 
 [![Tableau Dashboard](https://img.shields.io/badge/View-Tableau%20Dashboard-blue)](https://public.tableau.com/app/profile/poojit.kasina/viz/IPLDecadeDynamicsDashboard/MatchStatistics)
-[![Technologies Used](https://img.shields.io/badge/Technologies-Excel%20%7C%20Tableau-yellowgreen)](link-to-your-project)
+[![Technologies Used](https://img.shields.io/badge/Technologies-Excel%20%7C%20Tableau-yellowgreen)](https://github.com/Popsy96/IPL-Data-Insights/blob/Files/IPL%20Decade%20Dynamics%20Dashboard.pdf)
 
 ## 📊 Overview
 
@@ -32,11 +32,10 @@ Through data exploration and visual representation, this project highlights:
 
 ## 🖥️ [Explore the IPL Tableau Dashboard](https://public.tableau.com/app/profile/poojit.kasina/viz/IPLDecadeDynamicsDashboard/MatchStatistics)
 
-## 📚 [Download the Full Project Report (PDF)](link-to-your-project)
+## 📚 [Download the Full Project Report (PDF)](https://github.com/Popsy96/IPL-Data-Insights/blob/Files/IPL%20Decade%20Dynamic%20Dashboard%20Analysis.pdf)
 
 ## 📂 Files in this Repository:
 - `IPL_Data_Analysis.xlsx`: Raw and cleaned dataset used for analysis.
-- `IPL_Tableau_Workbook.twbx`: Tableau workbook with interactive dashboards.
 - `IPL_Project_Report.pdf`: Comprehensive analysis report with key insights and recommendations.
 
 ---
@@ -44,8 +43,8 @@ Through data exploration and visual representation, this project highlights:
 ## 📈 Featured Visuals:
 <!-- Optional: Add screenshots of Tableau dashboards here for an extra visual appeal -->
 
-![Dashboard Screenshot 1](https://github.com/Popsy96/IPL-Data-Insights/blob/c/Screenshot%202023-10-22%20225736.png) <!-- Replace with screenshots from your Tableau dashboard -->
-![Dashboard Screenshot 2](https://github.com/Popsy96/IPL-Data-Insights/blob/c/Screenshot%202023-10-22%20225813.png)
+![Dashboard Screenshot 1](https://github.com/Popsy96/IPL-Data-Insights/blob/Files/Screenshot%202023-10-22%20225736.png) <!-- Replace with screenshots from your Tableau dashboard -->
+![Dashboard Screenshot 2](https://github.com/Popsy96/IPL-Data-Insights/blob/Files/Screenshot%202023-10-22%20225813.png)
 
 ---
 
