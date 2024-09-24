@@ -1,6 +1,6 @@
 # 🏏 IPL Decade Dashboard Analysis (2008-2017)
 
-![IPL Banner](https://your-image-link.com) <!-- Replace with an IPL-themed image -->
+![IPL Banner](https://github.com/Popsy96/IPL-Data-Insights/blob/Files/download.png) <!-- Replace with an IPL-themed image -->
 
 [![Tableau Dashboard](https://img.shields.io/badge/View-Tableau%20Dashboard-blue)](https://public.tableau.com/app/profile/poojit.kasina/viz/IPLDecadeDynamicsDashboard/MatchStatistics)
 [![Technologies Used](https://img.shields.io/badge/Technologies-Excel%20%7C%20Tableau-yellowgreen)](https://github.com/Popsy96/IPL-Data-Insights/blob/Files/IPL%20Decade%20Dynamics%20Dashboard.pdf)
