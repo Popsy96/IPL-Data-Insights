@@ -44,8 +44,8 @@ Through data exploration and visual representation, this project highlights:
 ## 📈 Featured Visuals:
 <!-- Optional: Add screenshots of Tableau dashboards here for an extra visual appeal -->
 
-![Dashboard Screenshot 1](https://your-image-link.com) <!-- Replace with screenshots from your Tableau dashboard -->
-![Dashboard Screenshot 2](https://your-image-link.com)
+![Dashboard Screenshot 1](https://github.com/Popsy96/IPL-Data-Insights/blob/c/Screenshot%202023-10-22%20225736.png) <!-- Replace with screenshots from your Tableau dashboard -->
+![Dashboard Screenshot 2](https://github.com/Popsy96/IPL-Data-Insights/blob/c/Screenshot%202023-10-22%20225813.png)
 
 ---
 
